@@ -44,6 +44,27 @@ The vendor panel features a real-time live polling system that updates orders in
 
 ---
 
+🚀 How to Run Locally
+Clone this repository into your local XAMPP root folder (htdocs):
+
+Bash
+git clone [https://github.com/your-username/dinehub.git](https://github.com/your-username/dinehub.git)
+Open phpMyAdmin, create a new database named dinehub_db.
+
+Import the SQL table code block provided above into the database terminal.
+
+Open config.php and configure your database host, user, password, and database name.
+
+Start XAMPP Apache and MySQL services.
+
+Open your browser and navigate to: http://localhost/dinehub/index.php.
+
+👤 Developer
+Name: Wajahat Awan
+
+Role: Full-Stack Web Developer & Freelancer
+
+Focus: High-End Business Web Applications & Custom Portfolio Ecosystem
 ## 📂 Project Database Structure
 
 Run the following queries in your phpMyAdmin SQL terminal to set up the relational database structure:
@@ -111,24 +132,3 @@ CREATE TABLE IF NOT EXISTS order_items (
 
 
 
-🚀 How to Run Locally
-Clone this repository into your local XAMPP root folder (htdocs):
-
-Bash
-git clone [https://github.com/your-username/dinehub.git](https://github.com/your-username/dinehub.git)
-Open phpMyAdmin, create a new database named dinehub_db.
-
-Import the SQL table code block provided above into the database terminal.
-
-Open config.php and configure your database host, user, password, and database name.
-
-Start XAMPP Apache and MySQL services.
-
-Open your browser and navigate to: http://localhost/dinehub/index.php.
-
-👤 Developer
-Name: Wajahat Awan
-
-Role: Full-Stack Web Developer & Freelancer
-
-Focus: High-End Business Web Applications & Custom Portfolio Ecosystem
