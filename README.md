@@ -46,8 +46,8 @@ The vendor panel features a real-time live polling system that updates orders in
 ---
 🧑‍💻 Author
 Email:** [wajahathussain3335@gmail.com](mailto:wajahathussain3335@gmail.com)
-- **🌐 Portfolio Website:** [https://dinehub.infy.click/](https://dinehub.infy.click/)
-- **🌐 Live Website:** [https://pulsepos.infy.click/](https://pulsepos.infy.click/)
+- **🌐 Portfolio Website:** [http://codecraft.infy.click/](http://codecraft.infy.click/)
+- **🌐 Live Website:** [https://dinehub.infy.click/](https://dinehub.infy.click/)
 ## 📂 Project Database Structure
 
 Run the following queries in your phpMyAdmin SQL terminal to set up the relational database structure:
