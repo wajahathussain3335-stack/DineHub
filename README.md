@@ -41,6 +41,10 @@ The vendor panel features a real-time live polling system that updates orders in
 - **Database:** MySQL (Relational structure with cascade safety controls)
 - **Frontend:** Tailwind CSS (via CDN) with customized Google Fonts (Plus Jakarta Sans)
 - **Real-Time Engine:** Native JavaScript Fetch API & AJAX Polling
+🧑‍💻 Author
+Email:** [wajahathussain3335@gmail.com](mailto:wajahathussain3335@gmail.com)
+- **🌐 Portfolio Website:** [https://dinehub.infy.click/](https://dinehub.infy.click/)
+- **🌐 Live Website:** [https://pulsepos.infy.click/](https://pulsepos.infy.click/)
 
 ---
 
